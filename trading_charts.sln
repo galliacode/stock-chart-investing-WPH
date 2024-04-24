@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trading_charts", "trading_charts\trading_charts.csproj", "{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TradingChartSetup", "TradingChartSetup\TradingChartSetup.vdproj", "{98BCE2C7-02DF-4272-9482-B6E2D6CD717A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.All|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9B80B1-EF21-416B-A4A7-8663B0CFA2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BCE2C7-02DF-4272-9482-B6E2D6CD717A}.All|Any CPU.ActiveCfg = Debug
+		{98BCE2C7-02DF-4272-9482-B6E2D6CD717A}.Debug|Any CPU.ActiveCfg = Debug
+		{98BCE2C7-02DF-4272-9482-B6E2D6CD717A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF4E148-C6B6-4BDF-AA5B-6173C54164CF}
+	EndGlobalSection
+EndGlobal
